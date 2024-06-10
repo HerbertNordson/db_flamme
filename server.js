@@ -15,7 +15,7 @@ server.use(
     "/*": "/$1",
   })
 );
-app.use(
+server.use(
   cors({
     origin: "*",
     methods: ["GET", "POST", "PATCH", "PUT", "DELETE"],

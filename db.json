@@ -18,7 +18,7 @@
   "candles": [
     {
       "id": 1,
-      "name": "Flamme Premium",
+      "name": "Flamme Premium 2",
       "description": "As velas perfumadas no potinho de vidro são personalizadas com adesivo e tampa de tecido. São feitas com cera vegetal de coco ou soja e pavio de algodão, proporcionando aproximadamente 5 horas  de queima. Tem o tamanho de 4x4,5 e peso de 40g.",
       "aroma": [
         "Flor do campo",
@@ -43,8 +43,7 @@
         "Cetim",
         "Seda"
       ],
-      "quantity": 10,
-      "createdAt": "2024-05-16T19:08:23.639796"
+      "quantity": 10
     }
   ],
   "auth": [
